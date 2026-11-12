@@ -1,0 +1,20 @@
+MyTodo Website
+
+Developed By: Anis Kumar Panigrahi
+
+Technologies Used:
+1. Python
+2. Flask
+3. Bootstrap
+4. Flask-SQLAlchemy
+5. SQLite
+6. Jinja2
+
+Project Features:
+1. Add Todo
+2. View Todo
+3. Update Todo
+4. Delete Todo
+5. Search Todo
+6. About Page
+7. Contact Page
